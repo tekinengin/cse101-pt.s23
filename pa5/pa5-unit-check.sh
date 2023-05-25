@@ -24,7 +24,7 @@ echo ""
 g++ -std=c++17 -Wall -c -g ModelListTest.cpp List.cpp
 g++ -std=c++17 -Wall -o ModelListTest ModelListTest.o List.o
 
-timeout 30 valgrind --leak-check=full -v ./ModelListTest -v > ListTest-out.txt 2> ListTest-mem.txt
+timeout 10 valgrind --leak-check=full -v ./ModelListTest -v > ListTest-out.txt 2> ListTest-mem.txt
 if [ $? -eq 124 ]; then
    echo -e "${RED} MODEL LIST TEST TIMED OUT ${NC}"
 fi
