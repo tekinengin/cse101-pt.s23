@@ -20,8 +20,9 @@ chmod +x pa7.sh
 After installation, you can run the script with this line:
 
 ```bash
-./pa7.sh
+./pa7.sh 1
 ```
+You can change the integer argument to a higher integer to bypass if you are getting timeout warning. We will use it to multiply maximum allowed time with. Use this option wisely, your code should pass tests in a reasonable time.
 
 It will print out the difference between your output and the correct output,
 using the `diff` command. Lack of any output between the set of "=========="
