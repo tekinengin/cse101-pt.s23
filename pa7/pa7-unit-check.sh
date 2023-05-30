@@ -7,8 +7,8 @@ if [ ! -e backup ]; then
    mkdir backup
 fi
 
-let TIME_COEFF = $1
-let MAX_TIME = $TIME_COEFF*5
+TIME_COEFF = {$1}
+MAX_TIME = $TIME_COEFF*5
 
 cp *.cpp *.h Makefile backup   # copy all files of importance into backup
 

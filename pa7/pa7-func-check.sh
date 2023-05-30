@@ -3,7 +3,7 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
-let TIME_COEFF = $1
+TIME_COEFF = {$1}
 let MAXTIME=$TIME_COEFF*20
 
 SRCDIR=https://raw.githubusercontent.com/tekinengin/cse101-pt.s23/main/pa7
