@@ -35,7 +35,7 @@ read verbose
 for NUM in $(seq 1 $NUMTESTS); do
   rm -f WF-outfile$NUM.txt
   echo "WordFrequency Test $NUM:"
-  timeout 20 /usr/bin/time -po WF-time$NUM.txt ./WordFrequency WF-infile$NUM.txt WF-outfile$NUM.txt
+  timeout $MAXTIME /usr/bin/time -po WF-time$NUM.txt ./WordFrequency WF-infile$NUM.txt WF-outfile$NUM.txt
   t=$?
   userTime=`perl -ane 'print $F[1] if $F[0] eq "user"' WF-time$NUM.txt`
   tooSlow=$(echo "$userTime > $MAXTIME" |bc -l)

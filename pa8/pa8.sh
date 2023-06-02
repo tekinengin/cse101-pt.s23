@@ -11,6 +11,6 @@ echo $EXE_RANGE
 for i in $(seq 0 $EXE_RANGE); do
   curl $SRCDIR/${EXE_ALL[i]} > ${EXE_ALL[i]}
   chmod +x ${EXE_ALL[i]}
-  ./${EXE_ALL[i]}
-  rm -f ${EXE_ALL[i]} $1
+  ./${EXE_ALL[i]} $1
+  rm -f ${EXE_ALL[i]}
 done
