@@ -7,7 +7,7 @@ if [ ! -e backup ]; then
    mkdir backup
 fi
 
-MAX_TIME=$(($1*5))
+MAXTIME=$(($1*5))
 
 cp *.cpp *.h Makefile backup   # copy all files of importance into backup
 
@@ -25,7 +25,7 @@ echo ""
 g++ -std=c++17 -Wall -c -g ModelDictionaryTest.cpp Dictionary.cpp
 g++ -std=c++17 -Wall -o ModelDictionaryTest ModelDictionaryTest.o Dictionary.o
 
-timeout $MAX_TIME valgrind --leak-check=full -v ./ModelDictionaryTest -v > DictionaryTest-out.txt 
+timeout $MAXTIME valgrind --leak-check=full -v ./ModelDictionaryTest -v > DictionaryTest-out.txt 
 
 cat DictionaryTest-out.txt 
 
