@@ -1000,1003 +1000,1003 @@ zephyr-fanned : 515
 zorils : 427
 
 ignoration
-base-ball
+base-ball RED
 Sango
-Hebrew
+Hebrew RED
 Criders
-BUR
+BUR RED
 Anglo-afghan
 Agricola
-AFB
+AFB RED
 -phony
--form
-1080
+-form RED
+1080 RED
 Aggarwal
-Aeolidae
-Almagest
+Aeolidae RED
+Almagest RED
 Ali
 Amperian
-Altamahaw
+Altamahaw RED
 Asellidae
-Ardra
+Ardra RED
 Araxa
-Aphelops
+Aphelops RED
 Arica
-Artocarpus
-BLOBS
+Artocarpus RED
+BLOBS RED
 Auster
-Audras
-BEE
+Audras RED
+BEE RED
 BSRT
 Cetraria
-Bogalusa
+Bogalusa RED
 Berkley
 Barboza
-Balanta
-Beckman
+Balanta RED
+Beckman RED
 Bhutia
 Burrton
 Buerger
-Brabazon
-Cariocan
+Brabazon RED
+Cariocan RED
 Cahuapana
-Cannstatt
+Cannstatt RED
 Casatus
 Christ-borne
-Changoan
+Changoan RED
 Chaldaical
 Chetnik
-Charlena
+Charlena RED
 Cos
-Collbaith
-Creel
+Collbaith RED
+Creel RED
 Gaige
-Douglasville
+Douglasville RED
 Denn
-DP
+DP RED
 Croesus
-Cyrillaceae
+Cyrillaceae RED
 Darra
 Deschutes
-Derbent
-Doelling
+Derbent RED
+Doelling RED
 Erma
 Elsey
-Ector
-Engedi
-Francoist
+Ector RED
+Engedi RED
+Francoist RED
 Flindersia
-Evans
+Evans RED
 Fusulina
 Gymnasium
-Germanton
+Germanton RED
 Gauntlett
-Gardnerville
-Geoffry
+Gardnerville RED
+Geoffry RED
 Gildea
-Haughton
+Haughton RED
 Half-moslem
-Habiru
-Hannastown
+Habiru RED
+Hannastown RED
 Hazelcrest
 Moche
-Linanthus
+Linanthus RED
 Keelung
-Jack-the-rags
+Jack-the-rags RED
 Illinois
-Hulme
+Hulme RED
 Hochman
-Henka
+Henka RED
 Huntersville
 Iva
 Judean
 Jezabella
-Jenette
+Jenette RED
 Kasubian
 Laertiades
-Kiel
+Kiel RED
 Keos
 Krusche
-Kitasato
-Lach
-Leno
+Kitasato RED
+Lach RED
+Leno RED
 Lavallette
 Levant
-Lerona
+Lerona RED
 Macrochires
 Loxiinae
 Logi
 Lycopodiales
-Lupinus
-MFT
+Lupinus RED
+MFT RED
 Marilou
-Mangifera
+Mangifera RED
 Maeander
-Mahabharata
+Mahabharata RED
 Mansura
-Millda
+Millda RED
 Midway
-Melisandra
+Melisandra RED
 Min
-Protobasidii
+Protobasidii RED
 Otariidae
-Nierstein
+Nierstein RED
 Nanuet
-Morrison
+Morrison RED
 Monahon
 Myrtle
-Naemorhedinae
+Naemorhedinae RED
 Neopilina
 Nolanville
 Nimocks
-Ongun
+Ongun RED
 Obeid
-Oceola
+Oceola RED
 Opilia
 Poiana
-Pennatulidae
+Pennatulidae RED
 Pan-Arabic
-Pan-mongolian
+Pan-mongolian RED
 Piscataqua
-Pimpinella
-Plumularia
+Pimpinella RED
+Plumularia RED
 Polyctenidae
-Politian
-Potosi
+Politian RED
+Potosi RED
 Raninae
 Pyrosomatidae
 Pucciniaceae
-RITA
+RITA RED
 RIM
-Qum
+Qum RED
 Rallinae
 Robinsonville
 Rhynd
 SMASPU
 amalgamation
-Viipuri
+Viipuri RED
 Tarnopol
 Selene
-Scorpaenidae
+Scorpaenidae RED
 Sara
-Scheel
+Scheel RED
 Sebright
-Seeder
-Spartansburg
+Seeder RED
+Spartansburg RED
 Slavo-lithuanian
-Sharpsburg
+Sharpsburg RED
 Susy
-Stannwood
+Stannwood RED
 Tupis
-Torun
+Torun RED
 Tazewell
-Tetrabelodon
+Tetrabelodon RED
 Treron
-USSCt
+USSCt RED
 Tyndareus
 Vasti
-Ucalegon
+Ucalegon RED
 accidentarily
 Wovoka
-Wascott
+Wascott RED
 Viscount
-Violaceae
-Volos
+Violaceae RED
+Volos RED
 Waylan
-Wenlock
-Zoanthus
+Wenlock RED
+Zoanthus RED
 Xenocrates
 abortionist
-abeigh
-abulic
-adelantados
+abeigh RED
+abulic RED
+adelantados RED
 acidific
 acetabular
 actuaries
-acroataxia
+acroataxia RED
 aims
 adsmith
-adjustage
-afterdrain
-all-availing
+adjustage RED
+afterdrain RED
+all-availing RED
 albolite
-akhara
-alefnull
+akhara RED
+alefnull RED
 allochromatic
-aptly
+aptly RED
 antineutrons
-anemopathy
+anemopathy RED
 amuyong
 aminoazo
-ambulacrum
+ambulacrum RED
 anallagmatis
-anchietine
+anchietine RED
 anti-Roman
-antecedaneous
+antecedaneous RED
 anise
-annunciation
+annunciation RED
 anthraquinol
 anticipatorily
-antigovernment
+antigovernment RED
 apologete
 antonomasia
 appersonation
 athletism
 armorist
 archgod
-aspheric
+aspheric RED
 arsenetted
 assonantic
-astrometeorology
+astrometeorology RED
 backspang
-awabi
+awabi RED
 autoimmunities
-attatches
-auxology
+attatches RED
+auxology RED
 baby-face
-aywhere
-banjo
+aywhere RED
+banjo RED
 balneation
-baggers
+baggers RED
 barogram
 dawn
-cacodylate
+cacodylate RED
 bioelectrical
 benumbment
 beglerbegship
 baulkier
-bastioned
-beanbag
+bastioned RED
+beanbag RED
 bementite
-belick
+belick RED
 betroths
 besnowing
 bilinguist
-bidgee-widgee
+bidgee-widgee RED
 bolting
 blowy
-bitter-endism
+bitter-endism RED
 birds
 bleached
-black-tressed
+black-tressed RED
 boanerges
-brattishing
+brattishing RED
 both
 bonzer
-bord-and-pillar
+bord-and-pillar RED
 brain-crumpled
-bout
+bout RED
 bronchiloquy
 bridoons
-breech-loading
-broadband
-butterflylike
+breech-loading RED
+broadband RED
+butterflylike RED
 browsability
-bullit
+bullit RED
 byssi
 chondroitin
 catty-corner
 capework
-camillus
+camillus RED
 calories
-calderas
+calderas RED
 cancellated
-cardamine
+cardamine RED
 carabideous
 castles
-carpium
-catechizer
+carpium RED
+catechizer RED
 chawbuck
-centranth
+centranth RED
 cell
-cay
+cay RED
 cerebellums
-child-mindedness
+child-mindedness RED
 chelonin
 chloroleucite
-chirimen
-consultants
+chirimen RED
+consultants RED
 coccus
 claros
-circumradii
+circumradii RED
 chuter
-chronotropism
-cinderman
+chronotropism RED
+cinderman RED
 civilise
-clinah
+clinah RED
 clearinghouse
 clumproot
-close-bred
-coalitions
+close-bred RED
+coalitions RED
 competencies
-colophonate
+colophonate RED
 coffee-brown
-coderives
-coinquinate
+coderives RED
+coinquinate RED
 commissionating
-combinatorics
-concordant
+combinatorics RED
+concordant RED
 computerizes
 conichalcite
-confessionalian
-consence
+confessionalian RED
+consence RED
 counterchanged
 coparent
 contradictory
-conveyability
-correctable
+conveyability RED
+correctable RED
 cormogen
-coracomandibular
+coracomandibular RED
 cotillage
-crystallizations
+crystallizations RED
 crannogs
 covariant
-countersconce
-cps
+countersconce RED
+cps RED
 cross-pawl
-crumblingness
+crumblingness RED
 cut-price
 cunningness
-cufflinks
-cursedest
-daisy-painted
+cufflinks RED
+cursedest RED
+daisy-painted RED
 dackered
-cyclopentene
+cyclopentene RED
 dandy-roller
-fogbows
+fogbows RED
 egoistic
-diaplexus
+diaplexus RED
 delayage
 defaillance
-debuted
+debuted RED
 deafly
 decriminalization
-deciduitis
+deciduitis RED
 deganglionate
 desponder
 demodulator
-demagnetized
-deperdite
+demagnetized RED
+deperdite RED
 devouringly
-detritus
-diachyma
+detritus RED
+diachyma RED
 dollship
-disassembler
+disassembler RED
 dilling
 diffidence
-dicoelous
+dicoelous RED
 dinsome
-dipppier
+dipppier RED
 dissociality
-disfellowship
+disfellowship RED
 disconvenient
 disponed
-dislikeful
+dislikeful RED
 djakarta
-ditches
-dungannonite
+ditches RED
+dungannonite RED
 dosimetries
 doolfu
-drunkest
+drunkest RED
 drivellingly
-drawings-in
+drawings-in RED
 dudine
 dysanagnosia
 dusenwind
 eccyclema
-earthiest
-edward
-evocatory
+earthiest RED
+edward RED
+evocatory RED
 equisetic
-emma
+emma RED
 elevons
 elaine
-electrography
+electrography RED
 embolimeal
 entangler
-endophasia
+endophasia RED
 emyde
-encoring
+encoring RED
 enneahedral
-epencephalons
+epencephalons RED
 entrapment
 epihyal
-epitheliomatous
+epitheliomatous RED
 eucalyptic
 essayish
-escallops
-ethanols
+escallops RED
+ethanols RED
 euphroes
 felonwort
 extrahazardous
-expectorant
+expectorant RED
 excitingly
-exhilarator
+exhilarator RED
 expurgational
-falderols
+falderols RED
 fadding
-eye-lotion
+eye-lotion RED
 farthings
-fantailed
-fault-slip
-fit
+fantailed RED
+fault-slip RED
+fit RED
 feudists
 ferocity
-filbert
+filbert RED
 fiddle-faddled
 finespun
-fire-retarded
+fire-retarded RED
 florins
 flavorousness
-flamelike
+flamelike RED
 fluorinates
 gramineous
 frumpish
 fortyish
-forebespeak
+forebespeak RED
 foolmonger
 foreseat
-fricandelle
+fricandelle RED
 freehandedness
-fourteens
+fourteens RED
 frolicful
-gloat
+gloat RED
 gegger
-funicular
+funicular RED
 fullfaces
 gammerel
-gallicola
-gaster-
-ghostcraft
+gallicola RED
+gaster- RED
+ghostcraft RED
 generous-hearted
 glassblower
-girlhoods
+girlhoods RED
 gonal
 gnomists
-glucosidase
-go-getterism
+glucosidase RED
+go-getterism RED
 goose-quill
-gourdworm
+gourdworm RED
 high-flavored
-hallucinated
+hallucinated RED
 groundsman
-grayling
+grayling RED
 graphiological
 grip
-greeny
-gunreach
+greeny RED
+gunreach RED
 guaiocums
-guidwife
+guidwife RED
 hag
-halbert
+halbert RED
 heart-hardened
 hard-mouthed
-handbells
-harsh-grating
-herbrough
+handbells RED
+harsh-grating RED
+herbrough RED
 helming
-heirship
-hemihedron
+heirship RED
+hemihedron RED
 heterophagous
-herrenvolk
-heyduck
-horol.
+herrenvolk RED
+heyduck RED
+horol. RED
 home-loving
 hissel
-hinderance
-holl
+hinderance RED
+holl RED
 homoptera
-hook-snouted
+hook-snouted RED
 hydrolytically
-howling
+howling RED
 hotch
 hyaloliparite
-hypolimnionia
+hypolimnionia RED
 hyperelegantly
-hylology
-hypersuggestibleness
+hylology RED
+hypersuggestibleness RED
 ichorrhemia
-hysteriac
-idiasm
-scrutinization
+hysteriac RED
+idiasm RED
+scrutinization RED
 parviflorous
-multiview
+multiview RED
 legitim
-intraspecies
+intraspecies RED
 inmate
 inclinable
-impressionable
+impressionable RED
 immunogenetic
-imbitters
-impersonate
+imbitters RED
+impersonate RED
 inaptly
-inexistency
+inexistency RED
 index
-incorrupt
-indols
+incorrupt RED
+indols RED
 ingratitudes
-inflexion
+inflexion RED
 interluency
-intendency
+intendency RED
 inscribable
-instigated
+instigated RED
 interdebating
 interpubic
-intervisitation
+intervisitation RED
 kneehole
-jampan
+jampan RED
 irritative
 ionomers
-inventory
-ironheartedly
+inventory RED
+ironheartedly RED
 isosulphocyanate
-isocarbostyril
+isocarbostyril RED
 keynesian
-junks
+junks RED
 jocooserie
-jaunder
-jorums
+jaunder RED
+jorums RED
 kahawai
-kangaroo-rat
+kangaroo-rat RED
 kinetomeric
 lame-brain
-kyanol
+kyanol RED
 korona
-kodaking
+kodaking RED
 l-arterenol
-leach
+leach RED
 laparohepatotomy
-landlike
-latibulize
+landlike RED
+latibulize RED
 lecanoscopic
-mealymouthedness
+mealymouthedness RED
 major-leaguer
 lituiform
-lintiest
+lintiest RED
 life-enriching
-liberalizations
-likerous
+liberalizations RED
+likerous RED
 listable
-louisville
+louisville RED
 longhairs
-lobotomized
-lophin
+lobotomized RED
+lophin RED
 luffer
-maat
+maat RED
 marsalas
 mammilliform
-malfunction
-maras
-matchboxes
+malfunction RED
+maras RED
+matchboxes RED
 mashing
 mauds
-mazes
+mazes RED
 microdontous
 mesosomatic
-mercantility
+mercantility RED
 megaton
-medics
-men-children
+medics RED
+men-children RED
 merrymake
 metal-sheathed
-methobromide
-mites
+methobromide RED
+mites RED
 misdeserve
 miniver
-microstomatous
-misanthropi
+microstomatous RED
+misanthropi RED
 mislighting
-misshaped
+misshaped RED
 morassy
 monopody
-monoblepsis
-montmorillonitic
-mucronated
+monoblepsis RED
+montmorillonitic RED
+mucronated RED
 movie
-motiving
+motiving RED
 multibreak
 orthoplasy
-nonmischievous
+nonmischievous RED
 nitrotoluol
 navicerts
-muster-out
+muster-out RED
 murthering
 nasiform
-myelographically
-neshly
+myelographically RED
+neshly RED
 neck-tie
-neguses
+neguses RED
 news-seeking
-neuroplasm
+neuroplasm RED
 nonbody
 nonalphabetically
-non-English
-nonfeasibility
+non-English RED
+nonfeasibility RED
 noncredibly
-noncompensating
-nondichogamic
+noncompensating RED
+nondichogamic RED
 nonheritability
-nonirate
+nonirate RED
 nudniks
 nonrelativity
 nonprocedural
-nonparabolic
-nontropical
+nonparabolic RED
+nontropical RED
 nonsubstitution
-nonsegregable
+nonsegregable RED
 nose-up
-noonday
-novelised
-omnifacial
+noonday RED
+novelised RED
+omnifacial RED
 oil-laden
-obsessiveness
+obsessiveness RED
 nuts
 oddness
-off-color
+off-color RED
 oligacanthous
 oreodontine
 orality
-opaled
+opaled RED
 ornary
 overmarch
 outyells
-outflanks
+outflanks RED
 outbear
-osoberry
+osoberry RED
 outperform
-outsparkle
-overcurtain
+outsparkle RED
+overcurtain RED
 overbookish
 overhoping
-overextends
-papalise
+overextends RED
+papalise RED
 oxyluminescence
-overshadower
+overshadower RED
 overprint
 ovoplasmic
-overtensely
-palatomaxillary
+overtensely RED
+palatomaxillary RED
 packinghouse
-painkilling
+painkilling RED
 palliditarsate
 paraphilia
 paradigm
 parotidean
-parental
+parental RED
 quasi-realistic
-pre-emptor
+pre-emptor RED
 phytoecological
-perron
+perron RED
 pellucidly
-patroclinous
+patroclinous RED
 pastors
 peats
-payably
-pedocal
-peregrinations
+payably RED
+pedocal RED
+peregrinations RED
 penuckles
 peritoneoclysis
-perigon
+perigon RED
 phantic
 pessimism
-pettygod
-philotechnical
+pettygod RED
+philotechnical RED
 phenotype
 phycocolloid
-photomacrography
-platinamin
+photomacrography RED
+platinamin RED
 pinnoite
 pig-footed
-pickthatch
+pickthatch RED
 planform
-pixies
+pixies RED
 polyphyletically
 plie
-pleasure-tired
-poach
-postdiscoidal
+pleasure-tired RED
+poach RED
+postdiscoidal RED
 poppy-flowered
-pompoms
-portmantle
+pompoms RED
+portmantle RED
 practicableness
-postponement
+postponement RED
 primed
 preponderate
-predestinationism
+predestinationism RED
 precardiac
-preacquitting
-preconfiguration
+preacquitting RED
+preconfiguration RED
 preinquisition
-prefertility
-premodeled
+prefertility RED
+premodeled RED
 presubscriber
-prescribable
-prevariation
-psychoprophylaxis
+prescribable RED
+prevariation RED
+psychoprophylaxis RED
 prosopographical
-processionalist
+processionalist RED
 pro-Egyptian
-prize-fighter
+prize-fighter RED
 promptuary
-prohydrotropic
-proportionability
-pseudofluctuation
+prohydrotropic RED
+proportionability RED
+pseudofluctuation RED
 psalteteria
-proud-minded
+proud-minded RED
 pseudoskink
 pyknoses
 pupfishes
-pulpitical
-purushartha
+pulpitical RED
+purushartha RED
 quarterbacking
-quadrifrontal
-quasi-ethical
-rewardingness
+quadrifrontal RED
+quasi-ethical RED
+rewardingness RED
 regamble
-re-enjoy
+re-enjoy RED
 raffishnesses
 quincewort
-quenelle
-raclettes
+quenelle RED
+raclettes RED
 raspy
-ravishedly
+ravishedly RED
 rectricial
-rebounded
+rebounded RED
 readdicting
-rearhorse
+rearhorse RED
 reconfined
-recidivous
+recidivous RED
 redespise
-red-swelling
-refiners
-reprimandingly
+red-swelling RED
+refiners RED
+reprimandingly RED
 remerging
 reinspire
-rehaul
-relegating
+rehaul RED
+relegating RED
 rennase
-repenalize
+repenalize RED
 retransplants
-respring
+respring RED
 residentially
-reremmice
+reremmice RED
 retabulate
 revealingness
 rust-cankered
 rose-hued
-rogueling
+rogueling RED
 riddled
-rheumiest
+rheumiest RED
 ronnels
-row-boat
+row-boat RED
 rouged
 ruby-eyed
-rumina
-scabiophobia
+rumina RED
+scabiophobia RED
 sassandra
-saints
+saints RED
 sadhika
-sabre
+sabre RED
 saloop
-samites
+samites RED
 sauropsidan
 schoolbooks
 scarcen
 screek
-scissor-winged
+scissor-winged RED
 transferrotype
 stylopodium
-simianity
+simianity RED
 semble
 self-cruelty
 seacatch
 self-immurement
-self-repugnance
-sepulchres
+self-repugnance RED
+sepulchres RED
 seminasal
 semidisk
 sensiferous
-semisocialistically
+semisocialistically RED
 shide
-shallow-brained
+shallow-brained RED
 setarious
-serolipase
-sextodecimos
+serolipase RED
+sextodecimos RED
 she-fool
-shriller
+shriller RED
 shittier
-shortenings
+shortenings RED
 sieva
-siccar
-silicifluoride
+siccar RED
+silicifluoride RED
 spoons
-smoothnesses
+smoothnesses RED
 skier
 sipidity
-single-hoofed
-six-shafted
+single-hoofed RED
+six-shafted RED
 slim-waisted
-skyjacks
-slows
+skyjacks RED
+slows RED
 soreheads
-sol
+sol RED
 snowflower
-sneaped
-sociogram
+sneaped RED
+sociogram RED
 songlike
-soller
-sperone
+soller RED
+sperone RED
 spacetime
-soundheartedness
-spectroheliography
+soundheartedness RED
+spectroheliography RED
 spirit-chilling
-spifflicate
-splenolymphatic
-stentorine
+spifflicate RED
+splenolymphatic RED
+stentorine RED
 stagnates
 squalliest
-spring-board
-squirelet
+spring-board RED
+squirelet RED
 statesboy
-steel-digesting
+steel-digesting RED
 stockwork
 still-continuing
-sternway
-streamingly
+sternway RED
+streamingly RED
 stoothing
-straightforwardness
+straightforwardness RED
 stuber
-stripteased
-swaths
+stripteased RED
+swaths RED
 sulfurized
 subpeltated
 subemarginate
-subchief
-subjunct
+subchief RED
+subjunct RED
 subventitious
-substalagmite
-suffixion
+substalagmite RED
+suffixion RED
 superscribe
-superdevilishly
+superdevilishly RED
 summered
-sunspottery
+sunspottery RED
 superinsist
 supplicatingly
-surfeit-swelled
+surfeit-swelled RED
 theorically
-tatters
+tatters RED
 syntactially
 syllabary
-swindlership
-synaptene
-tafwiz
+swindlership RED
+synaptene RED
+tafwiz RED
 table-faced
 tam-o'-shanter
-talesman
-tapadera
+talesman RED
+tapadera RED
 telecinematography
 techiness
-tepetate
+tepetate RED
 telosynaptic
-ten-dollar
+ten-dollar RED
 tewly
-terrestriality
-theaterless
-titanoniobate
+terrestriality RED
+theaterless RED
+titanoniobate RED
 thoracicoacromial
 therologist
-think
-thy
+think RED
+thy RED
 throned
-three-aisled
+three-aisled RED
 tilty
-tide-locked
-tinkerwise
+tide-locked RED
+tinkerwise RED
 towelry
-tony
+tony RED
 toccate
-toluyl
+toluyl RED
 topsiders
 trachelo-
-trainmaster
+trainmaster RED
 unnitrogenous
 unbedecked
-triticism
+triticism RED
 treacheries
 transporters
 trigonometrical
-trichocystic
-tripaschal
+trichocystic RED
+tripaschal RED
 tweed
-tuedian
+tuedian RED
 trueheartedly
-trophaea
-tsimmes
+trophaea RED
+tsimmes RED
 turnmeter
-ultracrepidarian
+ultracrepidarian RED
 twice-negotiated
-twistical
+twistical RED
 unagreed
-umpteenth
-unarousable
-unfrilled
+umpteenth RED
+unarousable RED
+unfrilled RED
 undermanning
-unconfinement
+unconfinement RED
 uncensured
-unbreakable
-unclouding
+unbreakable RED
+unclouding RED
 undecreasingly
-uncorven
-underclift
-unenterable
+uncorven RED
+underclift RED
+unenterable RED
 undine
-understriking
-unduchess
+understriking RED
+unduchess RED
 unfinable
-unexplainably
+unexplainably RED
 uninnocent
 unhent
-ungradually
-uniform
-unmaniable
+ungradually RED
+uniform RED
+unmaniable RED
 unitemized
-unlearnableness
+unlearnableness RED
 unmitred
-vivificated
+vivificated RED
 unsignificant
 unpredicably
 unpalled
-unpetted
-unsafeguarded
+unpetted RED
+unsafeguarded RED
 unredemptive
-unpuckers
-unrespectiveness
+unpuckers RED
+unrespectiveness RED
 unseemingly
-urinations
+urinations RED
 untimbered
 unstrengthening
-unsparred
-unsymbolized
-unwry
+unsparred RED
+unsymbolized RED
+unwry RED
 unvulgarized
-untwist
+untwist RED
 uppent
-uraline
+uraline RED
 vesico-umbilical
-velds
+velds RED
 valiseful
-vaccines
-vaporoseness
+vaccines RED
+vaporoseness RED
 ventricolumna
-vermi-
+vermi- RED
 vice-architect
 wharfages
 wedgebill
-wappenschaw
+wappenschaw RED
 wage-plug
-vrows
-walkways
+vrows RED
+walkways RED
 water-living
 well-erected
-well-accredited
-well-prosecuted
-wonton
+well-accredited RED
+well-prosecuted RED
+wonton RED
 wigs
 white-fleshed
-while
-whoremongering
-winkled
+while RED
+whoremongering RED
+winkled RED
 winches
 wisha
-woad-painted
+woad-painted RED
 yerking
-yachtmanship
+yachtmanship RED
 worldly-mindedness
-woomeras
-wrothsome
+woomeras RED
+wrothsome RED
 yawney
-zephyr-fanned
+zephyr-fanned RED
 zamarra
-young-looking
+young-looking RED
 zorils
 

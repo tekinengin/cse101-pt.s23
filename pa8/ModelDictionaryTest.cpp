@@ -268,9 +268,13 @@ uint8_t runTest(Dictionary *pA, Dictionary *pB, int test) {
     return 0;
   }
   case Remove_value: {
-    string ideal1 = "d\nb\nc\nf\ne\ng\n";
-    string ideal2 = "e\nb\nc\nf\ng\n";
-    string ideal3 = "e\nb\nc\nf\n";
+    // string ideal1 = "d\nb\nc\nf\ne\ng\n";
+    // string ideal2 = "e\nb\nc\nf\ng\n";
+    // string ideal3 = "e\nb\nc\nf\n";
+
+    string ideal1 = "b\nd RED\nc\nf\ne RED\ng RED\n";
+    string ideal2 = "b\ne RED\nc\nf\ng RED\n";
+    string ideal3 = "b\ne RED\nc\nf\n";
     A.setValue("d", 1);
     A.setValue("b", 5);
     A.setValue("a", 10);
@@ -406,12 +410,18 @@ uint8_t runTest(Dictionary *pA, Dictionary *pB, int test) {
     return 0;
   }
   case PreString_equals: {
-    std::string ideal1 = "b\na\nf\ne\nh\ni\n";
-    std::string ideal2 =
-        "heat\neradicate\nbolstering\nabjuration\nfeather\ninsignia\n";
-    std::string ideal3 = "heat\neradicate\nabjuration\nabbreviation\n"
-                         "bolstering\nfeather\ngodsend\njustify\n"
-                         "insignia\nquizzical\nleaflet\nsolemnly\n";
+    // std::string ideal1 = "b\na\nf\ne\nh\ni\n";
+    std::string ideal1 = "b\na\nf RED\ne\nh\ni RED\n";
+    // std::string ideal2 =
+    //     "heat\neradicate\nbolstering\nabjuration\nfeather\ninsignia\n";
+    std::string ideal2 = 
+          "heat\neradicate RED\nbolstering\nabjuration RED\nfeather\ninsignia\n";
+    // std::string ideal3 = "heat\neradicate\nabjuration\nabbreviation\n"
+    //                      "bolstering\nfeather\ngodsend\njustify\n"
+    //                      "insignia\nquizzical\nleaflet\nsolemnly\n";
+    std::string ideal3 = 
+          "heat\neradicate RED\nabjuration\nabbreviation RED\nbolstering RED\n"
+          "feather\ngodsend RED\njustify RED\ninsignia\nquizzical\nleaflet RED\nsolemnly RED\n";
     A.setValue("a", 1);
     A.setValue("b", 5);
     A.setValue("e", 10);

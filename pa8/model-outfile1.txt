@@ -12,15 +12,15 @@ twelve : 12
 two : 2
 
 seven
-four
+four RED
 eleven
-eight
-five
+eight RED
+five RED
 one
-nine
-three
+nine RED
+three RED
 six
-ten
+ten RED
 two
-twelve
+twelve RED
 
