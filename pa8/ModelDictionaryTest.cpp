@@ -272,9 +272,9 @@ uint8_t runTest(Dictionary *pA, Dictionary *pB, int test) {
     // string ideal2 = "e\nb\nc\nf\ng\n";
     // string ideal3 = "e\nb\nc\nf\n";
 
-    string ideal1 = "b\nd (RED)\nc\nf\ne (RED)\ng (RED)\n";
-    string ideal2 = "b\ne (RED)\nc\nf\ng (RED)\n";
-    string ideal3 = "b\ne (RED)\nc\nf\n";
+    string ideal1 = "d\nb\nc (RED)\nf\ne (RED)\ng (RED)\n";
+    string ideal2 = "c\nb\nf\ne (RED)\ng (RED)\n";
+    string ideal3 = "c\nb\nf\ne (RED)\n";
     A.setValue("d", 1);
     A.setValue("b", 5);
     A.setValue("a", 10);
